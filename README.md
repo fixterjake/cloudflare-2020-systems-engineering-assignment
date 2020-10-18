@@ -27,16 +27,16 @@ I will preface the screenshots by stating a few things about what I found.
 ## Screenshots
 
 Worker:
-[!1](results/worker.png)
+![Worker](results/worker.png)
 
 Google:
-[!2](results/google.png)
+![Google](results/google.png)
 
 Github:
-[!3](results/github.png)
+![Github](results/github.png)
 
 Linkedin:
-[!4](results/linkedin.png)
+![Linkedin](results/linkedin.png)
 
 Amazon:
-[!5](results/amazon.png)
+![Amazon](results/amazon.png)
